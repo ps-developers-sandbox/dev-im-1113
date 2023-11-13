@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+I love Sunny Days in Chicago!
 
 ![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
 {: .center}
